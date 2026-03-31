@@ -18,7 +18,8 @@ Designed for **demonstration and learning purposes** in a controlled environment
 - **Graceful Exit** — Listener is safely stopped on window close or Ctrl+C
 
 ---
-[![alt text](image.png)](https://github.com/Goku-py/Keylogger-Demostration)
+<img width="262" height="217" alt="image" src="https://github.com/user-attachments/assets/339f4777-307a-4975-94dd-03e11ac03f69" />
+
 
 ## Log Format
 
